@@ -1,0 +1,47 @@
+dict(
+      headers = {
+                 'Accept' : 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+                 'Referer' : 'https://www.liepin.cn/',
+                 'Accept-Encoding': 'gzip, deflate, br',
+                 'Accept-Language': 'zh-CN,zh;q=0.9',
+                 'Connection': 'keep-alive',
+                 'Host': 'www.liepin.cn',
+                 'Referer': 'https://www.liepin.com/',
+                 'Sec-Fetch-Dest': 'document',
+                 'Sec-Fetch-Mode': 'navigate',
+                 'Sec-Fetch-Site': 'same-origin',
+                 'Sec-Fetch-User': '?1',
+                 'Upgrade-Insecure-Requests': '1',
+                 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36'
+                },
+ 
+      url = 'https://www.liepin.cn/zhaopin/',
+    
+      queryparams = {
+                     'isAnalysis':'',
+                     'dqs':'010',
+                     'pubTime':'',
+                     'salary':'',
+                     'subIndustry':'',
+                     'industryType':'',
+                     'compscale':'',
+                     'key':'Êý¾Ý·ÖÎö',
+                     'init':'-1',
+                     'searchType':'1',
+                     'headckid':'43c77a92042cc04c',
+                     'compkind':'',
+                     'fromSearchBtn':'2',
+                     'sortFlag':'15',
+                     'ckid':'43c77a92042cc04c',
+                     'degradeFlag':'0',
+                     'jobKind':'',
+                     'industries':'',
+                     'clean_condition':'',
+                     'siTag':'ZFDYQyfloRvvhTxLnVV_Qg~fA9rXquZc5IkJpXC-Ycixw',
+                     'd_sfrom':'search_fp',
+                     'd_ckId':'fb79cfee8d97d8fb2794c7b329815200',
+                     'd_curPage':'0',
+                     'd_pageSize':'40',
+                     'd_headId':'fb79cfee8d97d8fb2794c7b329815200'
+                    } 
+   )
